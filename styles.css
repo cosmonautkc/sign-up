@@ -15,12 +15,12 @@
 
 .name {
   flex-grow: 1;
-  flex-basis: 100%;
+  flex-basis: 220px;
 }
 
 .email {
   flex-grow: 3;
-  flex-basis: 100%;
+  flex-basis: 270px;
 }
 
 input {
@@ -35,5 +35,6 @@ button {
   border: 1px solid #000;
   border-radius: 5px;
   flex-grow: 1;
+  flex-basis: 170px;
   height: 2.5rem;
 }
