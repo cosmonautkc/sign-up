@@ -1,3 +1,8 @@
+* {
+  font-family: monospace;
+  font-weight: 500;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
