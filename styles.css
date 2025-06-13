@@ -6,6 +6,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-end;
   gap: 10px;
   border: 1px solid #000;
   border-radius: 5px;
@@ -34,4 +35,5 @@ button {
   border: 1px solid #000;
   border-radius: 5px;
   flex-grow: 1;
+  height: 2.5rem;
 }
