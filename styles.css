@@ -4,3 +4,21 @@
   gap: 10px;
   border: 1px solid #000;
 }
+
+.name {
+  border: 1px solid #000;
+  flex-grow: 1;
+  flex-basis: 300px;
+}
+
+.email {
+  border: 1px solid #000;
+  flex-grow: 3;
+  flex-basis: 500px;
+}
+
+button {
+  border: 1px solid #000;
+  border-radius: 5px;
+  flex-grow: 1;
+}
